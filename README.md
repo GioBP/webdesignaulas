@@ -14,7 +14,7 @@ Até o momento já foi desenvolvido a página Home e a aba Sobre, como pode ser 
 
 ​                                                                            
 
- 																			**Sobre**
+**Sobre**
 
 
 
