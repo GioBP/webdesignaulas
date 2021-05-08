@@ -197,11 +197,12 @@ img {
 
 .produtos_lista li {
 	background: #fec63e;
+	text-align: center;
 }
 
 .produtos_lista li img{
 	margin: 0 auto;
-	text-align: center;
+
 }
 
 .produtos_lista li h3 {
@@ -211,6 +212,7 @@ img {
 	text-transform: uppercase;
 	letter-spacing: .1em;
 	margin-top: 20px;
+	text-align: center;
 }
 
 .produtos_lista li h3:after{
@@ -386,5 +388,5 @@ img {
 .copy {
 	width: 100%;
 	background: #fec63e;
-	padding: 20px 0 40px 280px;	
+	padding: 20px 0 40px 280px;
 }
