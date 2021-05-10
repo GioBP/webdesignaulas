@@ -159,4 +159,16 @@
 	padding-right: 0px;
 }
 
+/*Contato*/
+
+.contato_form{
+	padding-right: 0px;
+	margin-bottom: 40px;
+}
+
+.contato_dados ul li {
+	padding: 5px 10px;
+	margin-right: 0;
+}
+
 } /*Final do estilo Mobile*/
